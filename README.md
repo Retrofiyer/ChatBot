@@ -91,7 +91,7 @@ https://ai.google.dev/aistudio?hl=es-419
 ## Running the service
 
   ```sh
-python run.py
+python main.py
    ```
 
 ## Contributing
