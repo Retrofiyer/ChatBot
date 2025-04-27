@@ -73,16 +73,16 @@ If you don't have any of these tools installed, follow the provided links to ins
    ```
 2.- Create a virtual environment and install dependencies
  ```sh
-    python -m venv .venv
-    .venv\Scripts\activate # On Linux, use `source .venv/bin/activate`
-    pip install -r requirements.txt
+python -m venv .venv
+.venv\Scripts\activate # On Linux, use `source .venv/bin/activate`
+pip install -r requirements.txt
    ```
 
 ## Configuration
 
 File .env:
 ```sh
-    GOOGLE_API_KEY=YOUR_API_KEY
+GOOGLE_API_KEY=YOUR_API_KEY
    ```
 
 The ChatBot does not require specific configuration files.
@@ -90,7 +90,7 @@ The ChatBot does not require specific configuration files.
 ## Running the service
 
   ```sh
-    python run.py
+python run.py
    ```
 
 ## Contributing
