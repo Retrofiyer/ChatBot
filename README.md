@@ -84,8 +84,9 @@ File .env:
 ```sh
 GOOGLE_API_KEY=YOUR_API_KEY
    ```
+Generate api_key on this web:
 
-The ChatBot does not require specific configuration files.
+https://ai.google.dev/aistudio?hl=es-419
 
 ## Running the service
 
